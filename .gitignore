@@ -1,20 +1,11 @@
-# Node modules
+
+# Dependency directories
 node_modules/
 
-# Build output
+# Build outputs
 /build
+/dist
 
-# Environment files
-.env
-
-# Logs
-*.log
-npm-debug.log*
-
-# Others
+# Misc
 .DS_Store
-.idea/
-.vscode/
-*.swp
-*.swo
-*.tmp
+.env
